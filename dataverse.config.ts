@@ -1,7 +1,7 @@
 export const config = {
   name: "dataverse app", // app name should NOT contain "-"
   logo: "https://bafybeifozdhcbbfydy2rs6vbkbbtj3wc4vjlz5zg2cnqhb2g4rm2o5ldna.ipfs.w3s.link/dataverse.svg",
-  website: ["http://localhost:3867/","https://main--grand-panda-230253.netlify.app/","https://currentblock.netlify.app/","https://658483321eb6072ee5c8b33c--grand-panda-230253.netlify.app/"], // you can use localhost:(port) for testing
+  website: ["https://658483321eb6072ee5c8b33c--grand-panda-230253.netlify.app/","http://localhost:3867/","https://main--grand-panda-230253.netlify.app/","https://currentblock.netlify.app/","https://658483321eb6072ee5c8b33c--grand-panda-230253.netlify.app/"], // you can use localhost:(port) for testing
   defaultFolderName: "Main",
   description: "This is a news publishing platform",
   models: [
